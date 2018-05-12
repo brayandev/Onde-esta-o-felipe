@@ -1,0 +1,9 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+.Menu{
+	border: 1px solid #ccc;
+	border-radius: 2px;
+}
